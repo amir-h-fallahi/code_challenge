@@ -6,6 +6,7 @@
 - Details: https://t.me/secflaws/19
 - Vulnerable code published: :white_check_mark:	
 - Fixed code published: :white_check_mark:
+- Live version: :x:
 
 ---
 
@@ -15,5 +16,6 @@
 - Details: :x:
 - Vulnerable code published: :white_check_mark:	
 - Fixed code published: :x:
+- Live version: [https://0x02-php.iran.liara.run/](https://0x02-php.iran.liara.run/PHP-Vulnerable-Code.php?username=test)
 
 ---
