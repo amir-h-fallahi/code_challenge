@@ -11,11 +11,11 @@
 ---
 
 ### [0x02 - PHP](/0x02-PHP)
-- Name: :x:
-- Type: :x:
-- Details: :x:
+- Name: Achieving XSS through `htmlspecialchars()` bypass using Unicode Normalization technique
+- Type: [A03:2021 – Injection](https://owasp.org/Top10/A03_2021-Injection/)
+- Details: https://t.me/secflaws/23
 - Vulnerable code published: :white_check_mark:	
-- Fixed code published: :x:
+- Fixed code published: :white_check_mark:
 - Live version: [https://0x02-php.iran.liara.run/](https://0x02-php.iran.liara.run/PHP-Vulnerable-Code.php?username=test)
 
 ---
